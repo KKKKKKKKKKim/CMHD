@@ -1,8 +1,8 @@
 # KG_c
 
-disease-data list 共241病症：根据DSM-5 分类
-疾病现有实体属性值：
-Disease name   
+disease-data list 共241病症：根据DSM-5 分类  
+疾病现有实体属性值：  
+Disease name     
 Disease Alternative name  
 Pathogenic_site  
 Disease description  
