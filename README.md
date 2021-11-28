@@ -5,19 +5,19 @@ disease-data list 共241病症：根据DSM-5 分类
 Disease name   
 Disease Alternative name  
 Pathogenic_site  
-Disease description
-Department
-Sympoth
-check
-complication disease 
-heredity
-confusable_disease
-Susceptible
-Factors (Cause)
-Cured probability 
-Prevention
-Symptom_description
-Treatment option 
+Disease description  
+Department  
+Sympoth  
+check  
+complication disease   
+heredity  
+confusable_disease  
+Susceptible  
+Factors (Cause)  
+Cured probability   
+Prevention  
+Symptom_description  
+Treatment option   
 
 
 
@@ -25,127 +25,127 @@ Treatment option
 
 抑郁障碍：
 
-index: 1 item: 产后抑郁症
-index: 10 item: 轻度抑郁发作
-index: 20 item: 抑郁性神经症
-index: 24 item: 忧郁症
-index: 50 item: 躁狂抑郁症
-index: 57 item: 抑郁症
-index: 173 item: 重度抑郁症
-index: 203 item: 老年抑郁症
-index: 222 item: 绝经与抑郁症
-index: 204 item: 老年忧郁症
-index: 135 item: 双相情感障碍
+index: 1 item: 产后抑郁症  
+index: 10 item: 轻度抑郁发作  
+index: 20 item: 抑郁性神经症  
+index: 24 item: 忧郁症  
+index: 50 item: 躁狂抑郁症  
+index: 57 item: 抑郁症  
+index: 173 item: 重度抑郁症  
+index: 203 item: 老年抑郁症  
+index: 222 item: 绝经与抑郁症  
+index: 204 item: 老年忧郁症  
+index: 135 item: 双相情感障碍  
 
 情绪障碍：
-index: 181 item: 童年情绪障碍
-index: 38 item: 儿童期情绪障碍
-index: 53 item: 情感障碍
-index: 36 item: 情感性心境障碍
-index: 22 item: 歇斯底里
+index: 181 item: 童年情绪障碍  
+index: 38 item: 儿童期情绪障碍  
+index: 53 item: 情感障碍  
+index: 36 item: 情感性心境障碍  
+index: 22 item: 歇斯底里  
 
 
 
 
-焦虑障碍：
-恐惧症：
-index: 30 item: 恐怖症
-index: 66 item: 恐惧症
-index: 16 item: 社交恐惧症
-index: 104 item: 广场恐惧症
-index: 105 item: 面红和面红恐惧症
-index: 163 item: 臭汗恐惧症
-index: 192 item: 儿童恐惧症
-index: 201 item: 儿童社交恐惧症
-index: 210 item: 小儿学校恐怖症
-index: 212 item: 疾病恐怖
+焦虑障碍：  
+恐惧症：  
+index: 30 item: 恐怖症  
+index: 66 item: 恐惧症  
+index: 16 item: 社交恐惧症  
+index: 104 item: 广场恐惧症  
+index: 105 item: 面红和面红恐惧症  
+index: 163 item: 臭汗恐惧症  
+index: 192 item: 儿童恐惧症  
+index: 201 item: 儿童社交恐惧症  
+index: 210 item: 小儿学校恐怖症  
+index: 212 item: 疾病恐怖  
 
 
-index: 28 item: 焦虑症
-index: 3 item: 广泛性焦虑障碍
-index: 125 item: 恐怖性焦虑障碍
-index: 180 item: 儿童分离性焦虑障碍
-index: 205 item: 小儿分离性焦虑症
+index: 28 item: 焦虑症  
+index: 3 item: 广泛性焦虑障碍  
+index: 125 item: 恐怖性焦虑障碍 
+index: 180 item: 儿童分离性焦虑障碍  
+index: 205 item: 小儿分离性焦虑症  
 
-index: 160 item: 惊恐障碍
-index: 162 item: 惊恐症
+index: 160 item: 惊恐障碍  
+index: 162 item: 惊恐症  
 
 
-躁狂症:
-index: 2 item: 躁狂症
-index: 27 item: 狂躁症
-index: 15 item: 双相性情感障碍
-index: 26 item: 躁郁症
+躁狂症:  
+index: 2 item: 躁狂症  
+index: 27 item: 狂躁症  
+index: 15 item: 双相性情感障碍  
+index: 26 item: 躁郁症  
 
 
 精神障碍：
-index: 29 item: 心理障碍
-index: 12 item: 散发性脑炎伴发的精神障碍
-index: 32 item: 脑动脉硬化伴发的精神障碍
-index: 49 item: 乙脑伴发的精神障碍
-index: 54 item: 心血管疾病伴发的精神障碍
-index: 56 item: 偏执性精神障碍
-index: 61 item: 系统性红斑狼疮伴发的精神障碍
-index: 67 item: 颅内肿瘤伴发的精神障碍
-index: 73 item: 癫痫伴发的精神障碍
-index: 75 item: 甲状旁腺功能异常伴发的精神障碍
-index: 77 item: 甲状腺功能异常伴发的精神障碍
-index: 81 item: 癌症伴发的精神障碍
-index: 87 item: 白血病伴发的精神障碍
-index: 88 item: 白塞病伴发的精神障碍
-index: 93 item: 水、电解质紊乱伴发的精神障碍
-index: 101 item: 肾脏疾病伴发的精神障碍
-index: 102 item: 急性短暂性精神障碍
-index: 103 item: 糖代谢异常伴发的精神障碍
-index: 108 item: 肾上腺皮质功能异常伴发的精神障碍
-index: 109 item: 甲状腺功能亢进伴发的精神障碍
-index: 117 item: 酒精中毒性精神障碍
-index: 122 item: 脑垂体功能异常伴发的精神障碍
-index: 126 item: 脑外伤伴发的精神障碍
-index: 127 item: 脑外伤所致精神障碍
-index: 130 item: 营养代谢疾病伴发的精神障碍
-index: 144 item: 消化系统疾病伴发的精神障碍
-index: 147 item: 呼吸系统疾病伴发的精神障碍
-index: 150 item: 气功性精神障碍
-index: 153 item: 贫血伴发的精神障碍
-index: 154 item: 性功能异常伴发的精神障碍
-index: 157 item: 染色体异常伴发的精神障碍
-index: 196 item: 围术期伴发的精神障碍
-index: 218 item: 农药中毒所致的精神障碍
+index: 29 item: 心理障碍  
+index: 12 item: 散发性脑炎伴发的精神障碍  
+index: 32 item: 脑动脉硬化伴发的精神障碍  
+index: 49 item: 乙脑伴发的精神障碍  
+index: 54 item: 心血管疾病伴发的精神障碍  
+index: 56 item: 偏执性精神障碍  
+index: 61 item: 系统性红斑狼疮伴发的精神障碍  
+index: 67 item: 颅内肿瘤伴发的精神障碍  
+index: 73 item: 癫痫伴发的精神障碍  
+index: 75 item: 甲状旁腺功能异常伴发的精神障碍  
+index: 77 item: 甲状腺功能异常伴发的精神障碍  
+index: 81 item: 癌症伴发的精神障碍  
+index: 87 item: 白血病伴发的精神障碍  
+index: 88 item: 白塞病伴发的精神障碍  
+index: 93 item: 水、电解质紊乱伴发的精神障碍  
+index: 101 item: 肾脏疾病伴发的精神障碍  
+index: 102 item: 急性短暂性精神障碍  
+index: 103 item: 糖代谢异常伴发的精神障碍  
+index: 108 item: 肾上腺皮质功能异常伴发的精神障碍  
+index: 109 item: 甲状腺功能亢进伴发的精神障碍  
+index: 117 item: 酒精中毒性精神障碍  
+index: 122 item: 脑垂体功能异常伴发的精神障碍  
+index: 126 item: 脑外伤伴发的精神障碍  
+index: 127 item: 脑外伤所致精神障碍  
+index: 130 item: 营养代谢疾病伴发的精神障碍  
+index: 144 item: 消化系统疾病伴发的精神障碍  
+index: 147 item: 呼吸系统疾病伴发的精神障碍  
+index: 150 item: 气功性精神障碍  
+index: 153 item: 贫血伴发的精神障碍  
+index: 154 item: 性功能异常伴发的精神障碍  
+index: 157 item: 染色体异常伴发的精神障碍  
+index: 196 item: 围术期伴发的精神障碍  
+index: 218 item: 农药中毒所致的精神障碍  
 
 
 失眠：
-curent index: 45 item: 嗜睡症
-index: 17 item: 睡眠障碍
-index: 58 item: 失眠
-index: 115 item: 产后失眠
-index: 137 item: 失眠抑郁
-index: 142 item: 致死性家族性失眠症
-index: 169 item: 神经衰弱
-index: 184 item: 梦魇
-index: 202 item: 神游症
-index: 74 item: 睡眠-觉醒节律障碍
-index: 52 item: 发作性睡病
+curent index: 45 item: 嗜睡症  
+index: 17 item: 睡眠障碍  
+index: 58 item: 失眠  
+index: 115 item: 产后失眠  
+index: 137 item: 失眠抑郁  
+index: 142 item: 致死性家族性失眠症  
+index: 169 item: 神经衰弱  
+index: 184 item: 梦魇  
+index: 202 item: 神游症  
+index: 74 item: 睡眠-觉醒节律障碍  
+index: 52 item: 发作性睡病  
 
 
 孤独症：
-index: 166 item: 儿童孤独症
-index: 221 item: 小儿孤独症
+index: 166 item: 儿童孤独症  
+index: 221 item: 小儿孤独症  
 
 强迫症：
-index: 21 item: 强迫症
-index: 9 item: 强迫性障碍
-index: 198 item: 儿童强迫症
+index: 21 item: 强迫症  
+index: 9 item: 强迫性障碍  
+index: 198 item: 儿童强迫症  
 
 
 
 
-发育障碍：
-index: 31 item: 精神发育迟滞
-index: 69 item: 神经发育迟滞
-index: 71 item: 儿童精神发育迟缓
-index: 139 item: 学习技能发育障碍
-index: 220 item: 小儿精神发育迟缓
+发育障碍：  
+index: 31 item: 精神发育迟滞  
+index: 69 item: 神经发育迟滞  
+index: 71 item: 儿童精神发育迟缓  
+index: 139 item: 学习技能发育障碍  
+index: 220 item: 小儿精神发育迟缓  
 
 index: 224 item: 言语和语言发育障碍
 
