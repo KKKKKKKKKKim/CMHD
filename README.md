@@ -1,4 +1,4 @@
-# KG_c
+# Chinese mental health dataset for Counseling KG construction
 
 disease-data list 共241病症：根据DSM-5 分类  
 疾病现有实体属性值：  
